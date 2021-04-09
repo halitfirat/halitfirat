@@ -20,10 +20,10 @@ Here are some ideas to get you started:
 <h3>Deployed Projects</h3>
 
 <ul>
-  <li><a href="https://github.com/halitfirat/emaily" target="blank">Emaily</a> - Finished first Fullstack-Project with a Tutorial</li>
-  <li><a href="https://github.com/halitfirat/vocab" target="blank">Vocab</a> - A learning app to check your vocabulary</li>
-  <li><a href="https://github.com/halitfirat/worktime" target="blank">Worktime</a> - Tracks your working time</li>
-  <li><a href="https://github.com/halitfirat/sendgrid-test" target="blank">Sendgrid-Test</a>Send Emails with SendGrid</li>
+  <li><a href="https://github.com/halitfirat/emaily" target="_blank">Emaily</a> - Finished first Fullstack-Project with a Tutorial</li>
+  <li><a href="https://github.com/halitfirat/vocab" target="_blank">Vocab</a> - A learning app to check your vocabulary</li>
+  <li><a href="https://github.com/halitfirat/worktime" target="_blank">Worktime</a> - Tracks your working time</li>
+  <li><a href="https://github.com/halitfirat/sendgrid-test" target="_blank">Sendgrid-Test</a> - A CRUD app that lets you send Emails</li>
 </ul>
 
 <h3>Technologies</h3>
