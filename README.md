@@ -26,9 +26,16 @@ Here are some ideas to get you started:
   <li><a href="https://github.com/halitfirat/sendgrid-test" target="_blank">Sendgrid-Test</a> - A CRUD app that lets you send Emails</li>
 </ul>
 
-<h3>Technologies</h3>
+<h3>Technology Stack</h3>
 
-
+<ul>
+  <li>HTML5/CSS3/Javascript</li>
+  <li>React/Redux</li>
+  <li>NodeJS/Express</li>
+  <li>REST</li>
+  <li>MongoDB/Mongoose</li>
+  <li>Git</li>
+</ul>
 
 <h3>Currently Learning ...</h3>
 
