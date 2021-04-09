@@ -15,8 +15,17 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<h2>About Me</h2>
+<h3>About Me</h3>
 
-<h2>Deployed Projects</h2>
+<h3>Deployed Projects</h3>
+
+<ul>
+  <li><a href="https://github.com/halitfirat/worktime">Worktime</a></li>
+  <li><a href="https://github.com/halitfirat/emaily">Emaily</a></li>
+  <li><a href="https://github.com/halitfirat/sendgrid-test">Sendgrid-Test</a></li>
+  <li><a href="https://github.com/halitfirat/vocab">Vocab</a></li>
+</ul>
+
+<h3>Languages</h3>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=halitfirat&layout=compact)](https://github.com/halitfirat/github-readme-stats)
