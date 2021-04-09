@@ -20,8 +20,8 @@ Here are some ideas to get you started:
 <h3>Deployed Projects</h3>
 
 <ul>
+  <li><a href="https://github.com/halitfirat/emaily">Emaily</a> - Finished project with a React/NodeJS Fullstack-Tutorial</li>
   <li><a href="https://github.com/halitfirat/worktime">Worktime</a></li>
-  <li><a href="https://github.com/halitfirat/emaily">Emaily</a></li>
   <li><a href="https://github.com/halitfirat/sendgrid-test">Sendgrid-Test</a></li>
   <li><a href="https://github.com/halitfirat/vocab">Vocab</a></li>
 </ul>
