@@ -20,12 +20,19 @@ Here are some ideas to get you started:
 <h3>Deployed Projects</h3>
 
 <ul>
-  <li><a href="https://github.com/halitfirat/emaily">Emaily</a> - Finished project with a React/NodeJS Fullstack-Tutorial</li>
-  <li><a href="https://github.com/halitfirat/worktime">Worktime</a></li>
-  <li><a href="https://github.com/halitfirat/sendgrid-test">Sendgrid-Test</a></li>
-  <li><a href="https://github.com/halitfirat/vocab">Vocab</a></li>
+  <li><a href="https://github.com/halitfirat/emaily" target="blank">Emaily</a> - Finished first Fullstack-Project with a Tutorial</li>
+  <li><a href="https://github.com/halitfirat/vocab" target="blank">Vocab</a> - A learning app to check your vocabulary</li>
+  <li><a href="https://github.com/halitfirat/worktime" target="blank">Worktime</a> - Tracks your working time</li>
+  <li><a href="https://github.com/halitfirat/sendgrid-test" target="blank">Sendgrid-Test</a>Send Emails with SendGrid</li>
 </ul>
 
-<h3>Languages</h3>
+<h3>Technologies</h3>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=halitfirat&layout=compact)](https://github.com/halitfirat/github-readme-stats)
+
+
+<h3>Currently Learning ...</h3>
+
+<ul>
+  <li>GraphQL</li>
+</ul>
+
