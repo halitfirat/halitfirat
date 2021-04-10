@@ -41,7 +41,7 @@ Hi I'm Halit. I recently achieved a degree in Application Development. While i l
   <li>Git</li>
 </ul>
 
-<h3>🌱 I’m currently learning ...</h3>
+<h3>Learning</h3>
 
 <ul>
   <li>GraphQL</li>
