@@ -18,12 +18,12 @@ Here are some ideas to get you started:
 
 <h3>About Me</h3>
 
-Hi I'm Halit. I recently achieved a degree in Application Development. While i like programming in general, my true passion is Webdevelopment. I truly love developing with the MERN-Stack. 
+Hi I'm Halit. I recently achieved a degree in Application Development. While i like programming in general, my passion is Webdevelopment. I truly love developing with the MERN-Stack. 
 
 <h3>Deployed Projects</h3>
 
 <ul>
-  <li><a href="https://github.com/halitfirat/emaily" target="_blank">Emaily</a> - Finished first Fullstack-Project with a Tutorial</li>
+  <li><a href="https://github.com/halitfirat/emaily" target="_blank">Emaily</a> - Finished Fullstack-Project with a Tutorial</li>
   <li><a href="https://github.com/halitfirat/vocab" target="_blank">Vocab</a> - A learning app to check your vocabulary</li>
   <li><a href="https://github.com/halitfirat/worktime" target="_blank">Worktime</a> - Tracks your working time</li>
   <li><a href="https://github.com/halitfirat/sendgrid-test" target="_blank">Sendgrid-Test</a> - A CRUD app that lets you send Emails</li>
