@@ -1,6 +1,7 @@
+<!--
 ### Hi there 👋
 
-<!--
+
 **halitfirat/halitfirat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -17,6 +18,8 @@ Here are some ideas to get you started:
 
 <h3>About Me</h3>
 
+Hi I'm Halit. I recently achieved a degree in Application Development. While i like programming in general, my true passion is Webdevelopment. I truly love developing with the MERN-Stack. 
+
 <h3>Deployed Projects</h3>
 
 <ul>
@@ -30,6 +33,7 @@ Here are some ideas to get you started:
 
 <ul>
   <li>HTML5/CSS3/Javascript</li>
+  <li>Material-UI</li>
   <li>React/Redux</li>
   <li>NodeJS/Express</li>
   <li>REST</li>
@@ -37,7 +41,7 @@ Here are some ideas to get you started:
   <li>Git</li>
 </ul>
 
-<h3>Currently Learning ...</h3>
+<h3>🌱 I’m currently learning ...</h3>
 
 <ul>
   <li>GraphQL</li>
