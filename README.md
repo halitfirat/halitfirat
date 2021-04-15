@@ -25,7 +25,7 @@ Hi I'm Halit. I recently achieved a degree in Application Development. While i l
 <ul>
   <li><a href="https://github.com/halitfirat/vocab" target="_blank">Vocab</a> - A learning app to check your vocabulary</li>
   <li><a href="https://github.com/halitfirat/worktime" target="_blank">Worktime</a> - Tracks your working time</li>
-  <li><a href="https://github.com/halitfirat/sendgrid-test" target="_blank">Sendgrid-Test</a> - A CRUD app that lets you send Emails</li>
+  <li><a href="https://github.com/halitfirat/mailer" target="_blank">Mailer</a> - A CRUD app that lets you send Emails</li>
 </ul>
 
 <h3>Technology Stack</h3>
