@@ -18,46 +18,11 @@ Here are some ideas to get you started:
 
 <h3>About Me</h3>
 
-<table>
-  <tr>
-    <td>
-      👋
-    </td>
-    <td>
-      Hi I'm Halit. I recently achieved a degree in Application Development.<br>
-      While i like programming in general, my passion is Web Development.
-    </td>
-  </tr>
-</table>
+👋 Hi I'm Halit. I recently achieved a degree in Application Development.<br>
+   While i like programming in general, my passion is Web Development.
 
 <h3>Deployed Projects</h3>
 
-<table>
-    <tr>
-    <td>
-      <a href="https://github.com/halitfirat/vocab" target="_blank">Vocab</a>
-    </td>
-    <td>
-      Check your vocabulary
-    </td>
-  </tr>    
-  <tr>
-    <td>
-      <a href="https://github.com/halitfirat/worktime" target="_blank">Worktime</a>
-    </td>
-    <td>
-      Print and export your working time
-    </td>
-  </tr>    
-  <tr>
-    <td>
-      <a href="https://github.com/halitfirat/mailer" target="_blank">Mailer</a>
-    </td>
-    <td>
-      Send emails based on templates
-    </td>
-  </tr>
-</table>
 <ul>
   <li><a href="https://github.com/halitfirat/vocab" target="_blank">Vocab</a> - Check your vocabulary</li>
   <li><a href="https://github.com/halitfirat/worktime" target="_blank">Worktime</a> - Print and export your working time</li>
