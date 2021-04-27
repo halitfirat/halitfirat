@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-👋 <h3>About Me</h3>
+<h3>About Me</h3>
 
 Hi I'm Halit. I recently achieved a degree in Application Development.<br>
 While i like programming in general, my passion is Web Development.
