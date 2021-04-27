@@ -20,13 +20,14 @@ Here are some ideas to get you started:
 
 <table>
   <tr>
-    <td>👋</td><td>Hi I'm Halit. I recently achieved a degree in Application Development.<br></td>
-  </tr>  
-  <tr>
-    <td></td><td>While i like programming in general, my passion is Web Development.</td>
+    <td>
+      👋
+    </td>
+    <td>
+      Hi I'm Halit. I recently achieved a degree in Application Development.<br>
+      While i like programming in general, my passion is Web Development.
+    </td>
   </tr>
- 
-
 </table>
 
 <h3>Deployed Projects</h3>
