@@ -18,7 +18,9 @@ Here are some ideas to get you started:
 
 <h3>About Me</h3>
 
-👋 Hi I'm Halit. I recently achieved a degree in Application Development. While i like programming in general, my passion is Web Development. 
+👋 Hi I'm Halit. I recently achieved a degree in Application Development. 
+
+While i like programming in general, my passion is Web Development. 
 
 <h3>Deployed Projects</h3>
 
