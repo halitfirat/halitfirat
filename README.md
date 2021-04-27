@@ -32,6 +32,32 @@ Here are some ideas to get you started:
 
 <h3>Deployed Projects</h3>
 
+<table>
+    <tr>
+    <td>
+      <a href="https://github.com/halitfirat/vocab" target="_blank">Vocab</a>
+    </td>
+    <td>
+      Check your vocabulary
+    </td>
+  </tr>    
+  <tr>
+    <td>
+      <a href="https://github.com/halitfirat/worktime" target="_blank">Worktime</a>
+    </td>
+    <td>
+      Print and export your working time
+    </td>
+  </tr>    
+  <tr>
+    <td>
+      <a href="https://github.com/halitfirat/mailer" target="_blank">Mailer</a>
+    </td>
+    <td>
+      Send emails based on templates
+    </td>
+  </tr>
+</table>
 <ul>
   <li><a href="https://github.com/halitfirat/vocab" target="_blank">Vocab</a> - Check your vocabulary</li>
   <li><a href="https://github.com/halitfirat/worktime" target="_blank">Worktime</a> - Print and export your working time</li>
