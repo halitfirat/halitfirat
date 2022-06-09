@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 
 <h3>About Me</h3>
 
-Hi I'm Halit 👋 I recently achieved a degree in Application Development.<br>
+Hi I'm Halit 👋 I hold a degree in Application Development.<br>
 While I like programming in general, my passion is Web Development.
 
 <h3>Deployed Projects</h3>
@@ -41,9 +41,11 @@ While I like programming in general, my passion is Web Development.
   <li>Git</li>
 </ul>
 
+<!--
 <h3>Learning</h3>
 
 <ul>
   <li>GraphQL</li>
 </ul>
+-->
 
