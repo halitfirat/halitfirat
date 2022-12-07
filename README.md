@@ -21,7 +21,8 @@ Here are some ideas to get you started:
 Hi I'm Halit 👋 I hold a degree in Application Development.<br>
 While I like programming in general, my passion is Web Development.
 
-<h3>Deployed Projects</h3>
+<!--<h3>Deployed Projects</h3>-->
+<h3>Projects</h3>
 
 <ul>
   <li><a href="https://github.com/halitfirat/vocab" target="_blank">Vocab</a> - Check your vocabulary</li>
