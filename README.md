@@ -15,7 +15,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<h1 align="center">Hi 👋, I'm Halit</h1>
+<!--<h1 align="center">Hi 👋, I'm Halit</h1>-->
+<h1 align="center">HALIT FIRAT</h1>
 <h3 align="center">A passionate developer from Germany with a degree in Application Development</h3>
 
 <p align="center">Take a look at this showcase <a href="https://github.com/halitfirat/vocab" target="_blank">project</a> or feel free to browse other repositories</p>
