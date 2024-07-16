@@ -15,15 +15,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<h1 align="center">Hi 👋, I'm Halit</h1>
+<h3 align="center">A passionate developer from Germany</h3>
 
-<h3>About Me</h3>
+<p>Take a look at my showcase <a href="https://github.com/halitfirat/vocab" target="_blank">project</a> or feel free to browse the other repositories.</p>
 
-Hi I'm Halit 👋 I hold a degree in Application Development.<br>
-While I like programming in general, my passion is Web Development.
-
-<!--<h3>Deployed Projects</h3>-->
-<h3>Projects</h3>
-
+<!--
 <ul>
   <li><a href="https://github.com/halitfirat/vocab" target="_blank">Vocab</a> - Check your vocabulary</li>
   <li><a href="https://github.com/halitfirat/worktime" target="_blank">Worktime</a> - Print and export your working time</li>
@@ -33,7 +30,7 @@ While I like programming in general, my passion is Web Development.
 <h3>Technology Stack</h3>
 
 <ul>
-  <li>HTML/CSS/Javascript</li>
+  <li>HTML/CSS/JavaScript</li>
   <li>Material-UI</li>
   <li>React/Redux</li>
   <li>NodeJS/Express</li>
@@ -42,7 +39,7 @@ While I like programming in general, my passion is Web Development.
   <li>Git</li>
 </ul>
 
-<!--
+
 <h3>Learning</h3>
 
 <ul>
