@@ -16,9 +16,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <h1 align="center">Hi 👋, I'm Halit</h1>
-<h3 align="center">A passionate developer from Germany</h3>
+<h3 align="center">A passionate developer from Germany with a degree in Application Development</h3>
 
-<p>Take a look at my showcase <a href="https://github.com/halitfirat/vocab" target="_blank">project</a> or feel free to browse the other repositories.</p>
+<p align="center">Take a look at this showcase [project](https://github.com/halitfirat/vocab) or feel free to browse other repositories</p>
 
 <!--
 <ul>
