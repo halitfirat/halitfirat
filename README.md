@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 <h2>Portfolio Project</h2> 
 <br>
 [![Netlify Status](https://api.netlify.com/api/v1/badges/e565a19b-4ccc-4e86-9a12-36aae4faa64b/deploy-status?branch=main)](https://app.netlify.com/sites/delicate-brioche-3fbeb7/deploys)
-
+<br>
 <p align="center">A project to demonstrate the skills you can expect from me. Try out the app here</p>
 
 Learn                      |  Test                     
