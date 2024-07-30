@@ -1,11 +1,11 @@
-<h1 align="center">Hi, I'm Halit</h1>
-<h3 align="center">A passionate developer from Germany with an IHK degree in Application Development</h3>
-
-<h2>Portfolio Project</h2> 
+Hi, I'm Halit
+A passionate developer from Germany with a degree in Application Development (IHK)
 
 [![Netlify Status](https://api.netlify.com/api/v1/badges/e565a19b-4ccc-4e86-9a12-36aae4faa64b/deploy-status?branch=main)](https://app.netlify.com/sites/delicate-brioche-3fbeb7/deploys)
 
-<p>A project to demonstrate the skills you can expect from me. Try out the app here</p>
+Here is a project to demonstrate the skills you can expect from me. Feel free to try out the app here [Secured by Netlify](https://memlingo.netlify.app/).
+
+Screenshots:
 
 Learn                      |  Test                     
 :-------------------------:|:-------------------------:
