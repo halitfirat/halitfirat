@@ -1,6 +1,6 @@
 Hi, I'm Halit a passionate developer from Germany with a IHK degree in Application Development.
 
-The following is a project to demonstrate the skills you can expect from me. Try out the app [hosted on netlify](https://memlingo.netlify.app/) or browse the code [repository](https://github.com/halitfirat/vocab).
+Here is a project to demonstrate the skills you can expect from me. Check out the live app [hosted on netlify](https://memlingo.netlify.app/vocabs) or its code [repository](https://github.com/halitfirat/vocab).
 
 [![Netlify Status](https://api.netlify.com/api/v1/badges/cb0e59a0-c33e-4f81-912b-c16d7b1db9ab/deploy-status)](https://app.netlify.com/sites/memlingo/deploys)
 Learn                      |  Test                     
