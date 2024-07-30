@@ -18,14 +18,9 @@ Here are some ideas to get you started:
 <h1 align="center">Hi, I'm Halit</h1>
 <h3 align="center">A passionate developer from Germany with an IHK degree in Application Development</h3>
 
-<h2>Portfolio Project</h2>
+<h2>Portfolio Project</h2> [![Netlify Status](https://api.netlify.com/api/v1/badges/e565a19b-4ccc-4e86-9a12-36aae4faa64b/deploy-status)](https://app.netlify.com/sites/delicate-brioche-3fbeb7/deploys)
 
-<p align="center">A project to demonstrate the skills you can expect from me. Try out the app here https://img.shields.io/endpoint.svg?url=https%3A%2F%2Fdeveloper.oswaldlabs.com%2Fnetlify-status%2Fe565a19b-4ccc-4e86-9a12-36aae4faa64b [Secured by Netlify](https://memlingo.netlify.app/) or [Code Repository](https://github.com/halitfirat/vocab).</p>
-
-<h1 align="center">Hi, I'm Halit</h1>
-<h3 align="center">A passionate developer from Germany with a degree in Application Development (IHK)</h3>
-
-- 🔭 I’m currently working on [project](https://memlingo.netlify.app)
+<p align="center">A project to demonstrate the skills you can expect from me. Try out the app here</p>
 
 Learn                      |  Test                     
 :-------------------------:|:-------------------------:
