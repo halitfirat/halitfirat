@@ -18,7 +18,9 @@ Here are some ideas to get you started:
 <h1 align="center">Hi, I'm Halit</h1>
 <h3 align="center">A passionate developer from Germany with an IHK degree in Application Development</h3>
 
-<h2>Portfolio Project</h2> [![Netlify Status](https://api.netlify.com/api/v1/badges/e565a19b-4ccc-4e86-9a12-36aae4faa64b/deploy-status)](https://app.netlify.com/sites/delicate-brioche-3fbeb7/deploys)
+<h2>Portfolio Project</h2> 
+<br>
+[![Netlify Status](https://api.netlify.com/api/v1/badges/e565a19b-4ccc-4e86-9a12-36aae4faa64b/deploy-status)](https://app.netlify.com/sites/delicate-brioche-3fbeb7/deploys)
 
 <p align="center">A project to demonstrate the skills you can expect from me. Try out the app here</p>
 
