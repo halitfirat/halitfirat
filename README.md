@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 
 <h2>Portfolio Project</h2>
 
-<p align="center">A project to demonstrate the skills you can expect from me. Try out the app here [![Netlify Status](https://api.netlify.com/api/v1/badges/https://img.shields.io/endpoint.svg?url=https%3A%2F%2Fdeveloper.oswaldlabs.com%2Fnetlify-status%2F{{e565a19b-4ccc-4e86-9a12-36aae4faa64b}}/deploy-status)](https://app.netlify.com/sites/delicate-brioche-3fbeb7/deploys) [Secured by Netlify](https://memlingo.netlify.app/) or [Code Repository](https://github.com/halitfirat/vocab).</p>
+<p align="center">A project to demonstrate the skills you can expect from me. Try out the app here https://img.shields.io/endpoint.svg?url=https%3A%2F%2Fdeveloper.oswaldlabs.com%2Fnetlify-status%2Fe565a19b-4ccc-4e86-9a12-36aae4faa64b [Secured by Netlify](https://memlingo.netlify.app/) or [Code Repository](https://github.com/halitfirat/vocab).</p>
 
 Learn                      |  Test                     
 :-------------------------:|:-------------------------:
